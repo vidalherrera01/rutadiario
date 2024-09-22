@@ -5,8 +5,8 @@ self.addEventListener('install', (event) => {
                 '/',
                 '/index.html',
                 '/main.js',
-                '/index-7tAc9ptl.js',
-                '/index-MMG10KD8.css'
+                '/index-BWtDR4mX.js',
+                '/index-DRQo3kaA.css'
             ]);
         })
     );
